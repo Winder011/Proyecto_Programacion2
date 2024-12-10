@@ -1,4 +1,4 @@
-namespace Proyecto_Programacion2
+namespace JuegoDe4Líneas
 {
     internal static class Program
     {
